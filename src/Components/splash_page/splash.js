@@ -25,7 +25,7 @@ const Splash = () =>{
           <div className="container">
             <div className="top-right-box">
               
-              
+               
               
              
             </div>
